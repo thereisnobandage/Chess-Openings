@@ -1,4 +1,4 @@
-![Chess Opening Analysis][def]
+![Screenshot](/src/screenshot.png)
 
 This project analyzes the most popular chess openings from a dataset containing 20,000 games. It provides insights into the top 10 most frequently played opening moves and visualizes their popularity using bar charts.
 
@@ -10,6 +10,6 @@ The dataset used in this project contains 20,000 chess games. Each game includes
 
 The analysis focuses on determining the most popular chess opening moves based on the frequency of occurrence in the dataset. The top 10 openings are identified and visualized using bar charts to showcase their popularity.
 
-[def]: src\screenshot.png
+[def]: https://imgur.com/a/WQaiK3U
 [def2]: https://www.kaggle.com/datasets/datasnaek/chess/data
 
